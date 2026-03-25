@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Notas/Aula01Introducao.html#aprendizagem-de-máquina",
+    "href": "Notas/Aula01Introducao.html#aprendizagem-de-máquina",
+    "title": "Aprendizagem de Máquina",
+    "section": "Aprendizagem de Máquina",
+    "text": "Aprendizagem de Máquina\nA forma de programar um computador para realizar uma tarefa é diferente da forma como um ser humano a realizar a mesma tarefa\nProgramação Tradicional\n\nRegras especificadas por programadores ;\nComputador segue regras explícitas;\nDifícil de lidar com tarefas complexas ou variáveis.\n\nE se as regras não forem claras ou forem difíceis de definir? - Exemplo: Reconhecimento de Imagens, Processamento de Linguagem Natural, Jogos, etc.\nAprendizagem de Máquina\n\nO computador aprende a realizar a tarefa a partir de dados;\nO modelo é treinado para reconhecer padrões e fazer previsões;\nCapaz de lidar com tarefas complexas e variáveis;"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aprendizagem de Máquina",
