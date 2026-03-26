@@ -4,42 +4,27 @@
     "href": "Notas/Aula01Introducao.html#paradigmas-de-programação",
     "title": "Aprendizagem de Máquina",
     "section": "Paradigmas de programação",
-    "text": "Paradigmas de programação\nComputadores e humanos têm formas diferentes de processar informações.\n\n\nProgramação Tradicional\n\nRegras explícitas\nProgramação baseada em lógica\nDifícil de lidar com tarefas complexas\n\nAprendizagem de Máquina\n\nAprendizado a partir de dados\nProgramação baseada em exemplos\nCapaz de lidar com tarefas complexas\n\n\n\n\nTarefas complexas: reconhecimento de voz, visão computacional, tradução automática, etc.",
-    "crumbs": [
-      "Notas de Aula",
-      "Aprendizagem de Máquina"
-    ]
+    "text": "Paradigmas de programação\nComputadores e humanos têm formas diferentes de processar informações.\n\n\nProgramação Tradicional\n\nRegras explícitas\nProgramação baseada em lógica\nDifícil de lidar com tarefas complexas\n\nAprendizagem de Máquina\n\nAprendizado a partir de dados\nProgramação baseada em exemplos\nCapaz de lidar com tarefas complexas\n\n\n\n\nTarefas complexas: reconhecimento de voz, visão computacional, tradução automática, etc."
   },
   {
     "objectID": "Notas/Aula01Introducao.html#tarefa-complexa",
     "href": "Notas/Aula01Introducao.html#tarefa-complexa",
     "title": "Aprendizagem de Máquina",
     "section": "Tarefa complexa",
-    "text": "Tarefa complexa\nComo classificar um e-mail como spam ou não-spam?",
-    "crumbs": [
-      "Notas de Aula",
-      "Aprendizagem de Máquina"
-    ]
+    "text": "Tarefa complexa\nComo classificar um e-mail como spam ou não-spam?\n\n\n\\[y = f(x)\\]"
   },
   {
     "objectID": "Notas/Aula01Introducao.html#aprendizagem-de-máquina-definição",
     "href": "Notas/Aula01Introducao.html#aprendizagem-de-máquina-definição",
     "title": "Aprendizagem de Máquina",
     "section": "Aprendizagem de máquina: definição",
-    "text": "Aprendizagem de máquina: definição\n\n\n\n\n\nAlgoritmo de aprendizagem redebe dados;\nRespostas também chamadas de rótulos ou classes;\nRegras são inferidas a partir dos dados;\nDados: \\(x\\)\nRótulos: \\(y\\)\nAlgoritmo de aprendizagem: \\(f\\)",
-    "crumbs": [
-      "Notas de Aula",
-      "Aprendizagem de Máquina"
-    ]
+    "text": "Aprendizagem de máquina: definição\n\n\n\n\n\nDados \\(x\\): características ou atributos de um exemplo;\nResposta \\(y\\): o que queremos prever ou classificar;\nAlgoritmo de aprendizagem \\(f\\): processo que aprende a partir dos dados;"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aprendizagem de Máquina",
     "section": "",
-    "text": "Notas de Aula:\n\nAula 01 - Aprendizagem de Máquina;",
-    "crumbs": [
-      "Aprendizagem de Máquina"
-    ]
+    "text": "Notas de Aula:\n\nAula 01 - Aprendizagem de Máquina;"
   }
 ]
